@@ -19,7 +19,7 @@ public class Person {
 		this.phone = phone;
 	}
 
-	public String getName() {
+	public String getName() {  
 		return this.name;  
 	}
 
